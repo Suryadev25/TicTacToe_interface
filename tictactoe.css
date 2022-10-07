@@ -1,0 +1,11 @@
+.btn-primary {
+  background-color: #0e076b;
+  border-color: #0e076b;
+}
+td{
+  height: 125px;
+  width: 125px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 85px;
+}
